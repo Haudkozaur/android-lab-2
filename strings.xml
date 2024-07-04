@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notatnik</string>
+    <string name="title_activity_edit_note">Edit Note</string>
+</resources>
